@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="787d2a34-d47b-4539-8695-8ca115934013" name="Changes" comment="added parsing">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779044356776</updated>
       <workItem from="1779044357815" duration="3189000" />
-      <workItem from="1779047569709" duration="93000" />
+      <workItem from="1779047569709" duration="428000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <option name="closed" value="true" />
