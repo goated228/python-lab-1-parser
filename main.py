@@ -7,8 +7,7 @@ if html:
     data = parse_birth_data(html)
 
     table = PrettyTable()
-
-    table.field_names = ["index", "value"]
+    table.field_names = ["title", "value"]
 
     for item in data:
         table.add_row([item["title"], item["value"]])
